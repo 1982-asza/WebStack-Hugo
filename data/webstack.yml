@@ -40,7 +40,8 @@
       url: https://www.bioitee.com
       qrcode: qrcode.jpg
       description: 微信公众号：BioIT 爱好者！
-      - taxonomy: 热门黑科技
+
+- taxonomy: 热门黑科技
   icon: fas fa-fire
   list:
     - term: 热门 AI 工具
