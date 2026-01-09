@@ -51,25 +51,61 @@
         - title: Claude 3
           url: https://claude.ai/
           logo: assets/images/logos/claude.png
-          description: 写作与逻辑能力极强。
+          description: 写作与逻辑能力极强，拥有超长上下文。
+        - title: Gemini
+          url: https://gemini.google.com/
+          description: Google 最强原生多模态 AI 模型。
+        - title: Copilot
+          url: https://copilot.microsoft.com/
+          description: 微软 AI 助手，集成 GPT-4 能力。
+        - title: Perplexity
+          url: https://www.perplexity.ai/
+          description: 结合了搜索引擎的 AI，查资料神器。
         - title: Kimi 智能助手
           url: https://kimi.moonshot.cn/
-          description: 长文本分析能力强。
+          description: 国产之光，超长文本分析能力强。
         - title: DeepSeek
           url: https://www.deepseek.com/
-          description: 深度求索，国产开源之光。
+          description: 深度求索，国产开源代码能力极强。
+        - title: Midjourney
+          url: https://www.midjourney.com/
+          description: 目前最强的 AI 绘画工具。
+        - title: Suno
+          url: https://suno.com/
+          description: 专业的 AI 音乐生成平台。
+        - title: Poe
+          url: https://poe.com/
+          description: 聚合了 GPT-4、Claude 等多种模型的平台。
+
     - term: 优质 VPS 推荐
       links:
         - title: BandwagonHost
           url: https://bandwagonhost.com/
-          description: 搬瓦工，线路稳，传家宝。
+          description: 搬瓦工，线路稳，传家宝 CN2 GIA。
         - title: DMIT
           url: https://www.dmit.io/
-          description: 香港/洛杉矶 CN2 GIA 顶级线路。
+          description: 香港/洛杉矶 CN2 GIA 顶级线路，土豪首选。
         - title: RackNerd
           url: https://www.racknerd.com/
-          description: 年付便宜，流量大，适合新手。
-
+          description: 年付便宜，流量大，性价比之王，适合新手。
+        - title: Vultr
+          url: https://www.vultr.com/
+          description: 全球机房多，按小时计费，随时删除。
+        - title: DigitalOcean
+          url: https://www.digitalocean.com/
+          description: 老牌大厂，稳定可靠，文档丰富。
+        - title: Hetzner
+          url: https://www.hetzner.com/
+          description: 德国大厂，性能怪兽，性价比极高（注册较严）。
+        - title: CloudCone
+          url: https://cloudcone.com/
+          description: 经常有特价活动，美国西海岸 SC2 线路。
+        - title: SpartanHost
+          url: https://spartanhost.org/
+          description: 斯巴达，防御好，西雅图线路这是热门款。
+        - title: 丽萨主机
+          url: https://lisahost.com/
+          description: 专注双 ISP 家宽 IP，适合 TikTok 运营。
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
