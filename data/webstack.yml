@@ -1,5 +1,3 @@
----
-
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
@@ -60,7 +58,6 @@
         - title: DeepSeek
           url: https://www.deepseek.com/
           description: 深度求索，国产开源之光。
-
     - term: 优质 VPS 推荐
       links:
         - title: BandwagonHost
@@ -146,7 +143,6 @@
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
-        
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -181,14 +177,13 @@
       links:
         - title: 百度贴吧
           logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
+          url: https://tieba.baidu.com/index.html
           description: 百度贴吧。
         - title: 台服战地
           logo: 战地之王.png
           url: https://ava.mangot5.com/ava/index
           description: 台服 AVA 战地之王。
-   
-      
+
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
@@ -208,7 +203,7 @@
           description: 家庭云|网盘|文件备份|资源分享。
         - title: 坚果云
           logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
+          url: https://www.jianguoyun.com/
           description: 坚果云官网。
     - term: 图标素材
       links:
@@ -235,7 +230,7 @@
         - title: IcoMoonApp
           logo: IcoMoonApp.png
           url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator.
+          description: Icon Font, SVG, PDF & PNG Generator.
         - title: easyicon
           logo: easyicon.png
           url: http://www.easyicon.net/
@@ -295,11 +290,11 @@
         - title: 365PSD
           logo: 365PSD.png
           url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations.
+          description: Free PSD & Graphics, Illustrations.
         - title: Medialoot
           logo: Medialoot.png
           url: https://medialoot.com/
-          description: Free &amp; Premium Design Resources &mdash; Medialoot.
+          description: Free & Premium Design Resources — Medialoot.
         - title: 千图网
           logo: qiantu.png
           url: http://www.58pic.com/
@@ -397,8 +392,7 @@
         - title: Abstract Fonts
           url: http://www.abstractfonts.com/
           logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
-      
+          description: Abstract Fonts (13,866 free fonts).
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
@@ -480,7 +474,7 @@
         - title: webgradients
           url: https://webgradients.com/
           logo: webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
+          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
         - title: grabient
           url: https://www.grabient.com/
           logo: grabient.png
@@ -551,7 +545,6 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
-        
     - term: 谷歌插件
       links:
         - title: wappalyzer
@@ -578,7 +571,6 @@
           url: http://mustsee.earth/
           logo: mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
-
 
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
@@ -620,39 +612,5 @@
         - title: Design Guidelines
           url: http://designguidelines.co/
           logo: designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
+          description: Design Guidelines — The way products are built.
         - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: Material_Design.png
-          description: Introduction - Material Design.
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: human_interface_guidelines.png
-          description: Human Interface Guidelines iOS.
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: photoshopetiquette.png
-          description: PS礼仪-WEB设计指南。
-    - term: 视频教程
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: doyoudo.png
-          description: 创意设计软件学习平台。
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课。
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂（有UI课程）。
-        
