@@ -40,7 +40,37 @@
       url: https://www.bioitee.com
       qrcode: qrcode.jpg
       description: 微信公众号：BioIT 爱好者！
+      - taxonomy: 热门黑科技
+  icon: fas fa-fire
+  list:
+    - term: 热门 AI 工具
+      links:
+        - title: ChatGPT
+          url: https://chat.openai.com/
+          logo: assets/images/logos/chatgpt.png
+          description: OpenAI 全球最强 LLM。
+        - title: Claude 3
+          url: https://claude.ai/
+          logo: assets/images/logos/claude.png
+          description: 写作与逻辑能力极强。
+        - title: Kimi 智能助手
+          url: https://kimi.moonshot.cn/
+          description: 长文本分析能力强。
+        - title: DeepSeek
+          url: https://www.deepseek.com/
+          description: 深度求索，国产开源之光。
 
+    - term: 优质 VPS 推荐
+      links:
+        - title: BandwagonHost
+          url: https://bandwagonhost.com/
+          description: 搬瓦工，线路稳，传家宝。
+        - title: DMIT
+          url: https://www.dmit.io/
+          description: 香港/洛杉矶 CN2 GIA 顶级线路。
+        - title: RackNerd
+          url: https://www.racknerd.com/
+          description: 年付便宜，流量大，适合新手。
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
